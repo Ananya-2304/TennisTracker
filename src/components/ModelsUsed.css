@@ -1,0 +1,33 @@
+.models-used {
+    padding: 20px;
+  }
+  
+  .intro {
+    margin-bottom: 10px;
+  }
+  
+  /* .model-details {
+    display: flex;
+    align-items: flex-start;
+  } */
+  
+  .model-info {
+    display:flex;
+    margin-right: 20px;
+    justify-content: space-between;
+  }
+  
+  .flowchart {
+    width: 100%;
+    max-width: 600px; /* Adjust based on your preference */
+    height: auto;
+  }
+  
+  .model-text h3 {
+    margin-top: 5px;
+  }
+  
+  .model-text p {
+    margin-top: 5px;
+  }
+  

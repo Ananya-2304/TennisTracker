@@ -1,0 +1,40 @@
+.about-us {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .letter {
+    margin-bottom: 40px;
+  }
+  
+  .letter h2 {
+    font-size: 1.8em;
+    margin-bottom: 10px;
+  }
+  
+  .letter p {
+    margin-bottom: 10px;
+    line-height: 1.6;
+  }
+  
+  .college-info{
+    display:flex;
+    margin-right:20px;
+  }
+  .text{
+    margin-left: 20px;
+  }
+  .college-info h2 {
+    font-size: 1em;
+    margin-bottom: 20px;
+  }
+  
+  .college-logo {
+    width: 120px;
+    margin-bottom: 20px;
+  }
+  
+  .college-info p {
+    line-height: 1.6;
+  }
+  

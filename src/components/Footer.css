@@ -1,0 +1,33 @@
+.footer {
+    background-color: #333; /* Dark background color */
+    color: #fff; /* White text color */
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .footer ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .footer li {
+    display: inline;
+    margin: 0 15px;
+  }
+  
+  .footer a {
+    color: #fff; /* White color for links */
+    text-decoration: none;
+    font-size: 1em;
+  }
+  
+  .footer a:hover {
+    text-decoration: underline; /* Underline on hover */
+  }
+  
+  .footer .copyright {
+    margin-top: 20px; /* Space between links and copyright notice */
+    font-size: 0.9em;
+  }
+  
